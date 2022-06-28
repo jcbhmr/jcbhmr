@@ -6,3 +6,6 @@
 - [🌟 Check out my favorite repositories](https://github.com/jcbhmr?tab=stars)
 - [📄 Look at my resume](https://github.com/jcbhmr/jcbhmr/blob/trunk/resume.md)
 - [📦 Browse through my projects](https://github.com/jcbhmr?tab=repositories)
+
+Recent posts
+- [Use Deno as a simple bundler](https://github.com/jcbhmr/jcbhmr/discussions/9)
