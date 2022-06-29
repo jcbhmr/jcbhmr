@@ -6,3 +6,4 @@
 - [🌟 Check out my favorite repositories](https://github.com/jcbhmr?tab=stars)
 - [📄 Look at my resume](https://github.com/jcbhmr/jcbhmr/blob/trunk/resume.md)
 - [📦 Browse through my projects](https://github.com/jcbhmr?tab=repositories)
+- [✏️ Check out my Gists](https://gist.github.com/jcbhmr)
