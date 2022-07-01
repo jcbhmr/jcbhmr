@@ -2,7 +2,7 @@
 The list of Chrome extensions that I use in my browser
 
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- _[<unnamed password manager>](https://www.pcmag.com/picks/the-best-password-managers)[^1]_
+- [_unnamed password manager_](https://www.pcmag.com/picks/the-best-password-managers)[^1]
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
