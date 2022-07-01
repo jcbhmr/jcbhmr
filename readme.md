@@ -4,7 +4,6 @@
 - [📚 Read some of my blog posts](https://github.com/jcbhmr/jcbhmr/discussions/categories/blog)
 - [⌚ Stalk my recent activity](https://github.com/jcbhmr#js-contribution-activity)
 - [⭐ Check out my favorite repositories](https://github.com/jcbhmr?tab=stars)
-- [📄 Look at my resume](https://github.com/jcbhmr/jcbhmr/blob/trunk/resume.pdf)
 - [🚚 Browse through my projects](https://github.com/jcbhmr?tab=repositories)
 - [✏️ Check out my Gists](https://gist.github.com/jcbhmr)
 - [📦 Inspect my NPM packages](https://www.npmjs.com/~jcbhmr)
