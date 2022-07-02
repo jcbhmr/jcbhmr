@@ -8,3 +8,5 @@
 - [✏️ Check out my Gists](https://gist.github.com/jcbhmr)
 - [📦 Inspect my NPM packages](https://www.npmjs.com/~jcbhmr)
 - [📋 Check out some template files](https://github.com/jcbhmr/template-files)
+
+[![jcbhmr's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcbhmr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
