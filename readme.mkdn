@@ -13,4 +13,4 @@ This is NOT an actual project, this is a stub for a special profile banner. That
 - No rules
 - No license[^1]
 
-[^1]: opensource.stackexchange.com/a/1721
+[^1]: [opensource.stackexchange.com/a/1721](https://opensource.stackexchange.com/a/1721)
