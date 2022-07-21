@@ -1,5 +1,5 @@
 🏙️ [Browse through my repos]()<br />
-👷‍♂️ [Check out what I am currently working on](https://github.com/users/jcbhmr/projects/6/views/1)<br />
+👷‍♂️ [Check out what I am currently working on](https://github.com/users/jcbhmr/projects/6)<br />
 ⭐ [Pore over my favorite GitHub repos]()<br />
 💡 [Yoink one of my project ideas]()
 
