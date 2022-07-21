@@ -1,0 +1,16 @@
+<!-- Still 'readme' in Markdown, just lower priority on GitHub
+     Ref: https://github.com/github/markup/blob/master/README.md#markups -->
+
+# [@jcbhmr](https://github.com/jcbhmr)
+✨ My GitHub profile page!<br />
+[github.com/jcbhmr](https://github.com/jcbhmr)
+
+This is NOT an actual project, this is a stub for a special profile banner. That means...
+- No Issues
+- No PRs
+- No tidy commit messages
+- No Actions
+- No rules
+- No license[^1]
+
+[^1]: opensource.stackexchange.com/a/1721
