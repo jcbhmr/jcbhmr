@@ -6,4 +6,4 @@
 ⭐ [Pore over my favorite GitHub repos]()<br />
 💡 [Yoink one of my project ideas]()
 
-[![](https://img.shields.io/badge/npm-white?logo=npm&style=for-the-badge)](https://www.npmjs.com/~jcbhmr)
+[![NPM](https://img.shields.io/badge/npm-white?logo=npm&style=for-the-badge)](https://www.npmjs.com/~jcbhmr)
