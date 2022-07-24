@@ -10,7 +10,6 @@ This is NOT an actual project, this is a stub for a special profile banner. That
 - No PRs
 - No tidy commit messages
 - No Actions
-- No rules
 - No license[^1]
 
 [^1]: [What can I assume if a publicly published project has no license?](https://opensource.stackexchange.com/a/1721)
