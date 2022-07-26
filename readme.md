@@ -1,6 +1,6 @@
-🏙️ [Browse through my repos](https://github.com/jcbhmr?tab=repositories)<br />
-👷‍♂️ [Check out what I am currently working on](https://github.com/users/jcbhmr/projects/6)<br />
-⭐ [Pore over my favorite GitHub repos](https://github.com/jcbhmr?tab=stars)<br />
-💡 [Yoink one of my project ideas]()
+👋 Hello there!
 
-[![NPM](https://img.shields.io/badge/npm-white?logo=npm&style=for-the-badge)](https://www.npmjs.com/~jcbhmr)
+💡 [Yoink one of my project ideas](https://github.com/jcbhmr/my-blog/discussions) \
+👷‍♂️ [Check out what I'm working on](https://github.com/users/jcbhmr/projects/6)
+
+[![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&style=for-the-badge)](https://www.npmjs.com/~jcbhmr)
